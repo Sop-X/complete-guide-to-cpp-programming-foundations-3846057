@@ -12,7 +12,7 @@ int main(){
 
     target_x = -123.45;
     sprite_x = target_x;
-     player_x = sprite_x;
+    player_x = sprite_x;
 
     std::cout << "Target X (float): " << target_x << std::endl;
     std::cout << "Sprite X (int32_t): " << sprite_x << std::endl;
