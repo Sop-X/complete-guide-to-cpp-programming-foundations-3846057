@@ -14,7 +14,7 @@ int main(){
     
     std:: cout << "The game has " << checkpoints.size() << " checkpoints." << std::endl;
     std::cout << "The checkpoint at index 2 is " << checkpoints[2] << std::endl;
-    checkpoints[2] = "Dark Catle";
+    checkpoints[2] = "Dark Castle";
     std::cout << "Checkpoints updated to: " << checkpoints[2] << std::endl;
 
     std::cout << std::endl << std::endl;
